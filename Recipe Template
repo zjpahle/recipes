@@ -1,14 +1,30 @@
-Recipe Title
-Last made: $DATE
-Servings: $NUMBER (Amount or people)
-Estimated Prep Time: $PREP_TIME (min) 
-Ingredients:
+# Recipe Template
 
--Dry ingredients
+## Recipe Name: 
 
--Wet ingredients
+## Date: 2026-02-22 23:22:05
 
-Intructions:
-1. Step one
-2. Step two
-3. Ect. 
+## Servings: 
+
+## Prep Time: 
+
+## Cook Time: 
+
+## Ingredients:
+### Category 1:
+- Ingredient 1
+- Ingredient 2
+
+### Category 2:
+- Ingredient 3
+- Ingredient 4
+
+## Instructions:
+1. Step 1
+2. Step 2
+
+## Notes:
+
+## Tags:
+- Tag 1
+- Tag 2
